@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+static/
+*.DS_Store
+
+# Environment Variables
+.env
+*.env
+
+# Virtual Environment
+venv/
+env/
+env.bak/
+venv.bak/
+.venv/
+.Python
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+test_*.xml
+*.coverage
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Pytest
+.cache
+pytestdebug.log
+
+# Pyre type checker
+.pyre/
+
+# MyPy
+.mypy_cache/
+
+# Black
+.pyproject.toml
+
+# Coverage reports
+htmlcov/
+coverage.xml
